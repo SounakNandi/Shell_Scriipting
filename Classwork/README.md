@@ -1,4 +1,4 @@
-12. Home Assignment
+<h1>12. Home Assignment</h1>
     
 a) Write a Shell Script which can perform the job of a calculator having functionalities of add, subtract, multiply, divide, power and square root. The entire expression to be evaluated will be passed as an argument via the command line. Your solution should support an expression having at least 2 binary operators.
 
